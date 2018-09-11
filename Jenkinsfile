@@ -1,4 +1,4 @@
-pipeline {
+node {
     // global env variables
     environment {
         EMAIL_RECIPIENTS = 'mahmoud.romeh@test.com'
